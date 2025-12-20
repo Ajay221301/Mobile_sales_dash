@@ -34,7 +34,7 @@ It enables quick decision-making by providing clear KPIs, trends, and year-over-
 ## 📈 Dashboard Pages
 
 ### 1️⃣ Main Dashboard
-![Main Dashboard](images/Dashboard.png)
+![Main Dashboard](Dashboard.png)
 
 - Total Sales, Quantity, Transactions, Average Price
 - Total Sales by City (Map Visual)
@@ -48,7 +48,7 @@ It enables quick decision-making by providing clear KPIs, trends, and year-over-
 ---
 
 ### 2️⃣ MTD (Month-To-Date) Report
-![MTD Report](images/MTD.png)
+![MTD Report](MTD.png)
 
 - Day-wise cumulative sales trend
 - Tracks current month sales performance
@@ -57,7 +57,7 @@ It enables quick decision-making by providing clear KPIs, trends, and year-over-
 ---
 
 ### 3️⃣ Same Period Last Year (SPLY) Report
-![SPLY Report](images/SPLY.png)
+![SPLY Report](SPLY.png)
 
 - Year-wise sales comparison
 - Quarter-wise comparison
